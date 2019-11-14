@@ -10,7 +10,7 @@
 	padding: 55px 50px;
 	margin-top: 80px;
 }
-
+.logoc{font-family:'Black Ops One', cursive ;}
 .footer-distributed .footer-left,
 .footer-distributed .footer-center,
 .footer-distributed .footer-right{
@@ -28,7 +28,7 @@
 
 .footer-distributed h3{
 	color:  #ffffff;
-	font: normal 36px 'Cookie', cursive;
+	font: normal 36px 'Quicksand', sans-serif;
 	margin: 0;
 }
 
